@@ -1,6 +1,6 @@
 import typing as t
 
-from PIL import Image, ImageColor, ImageOps, ImageChops, ImageFilter
+from PIL import Image, ImageColor, ImageOps, ImageChops, ImageFilter 
 import numpy as np   
 
 class Canvas:
