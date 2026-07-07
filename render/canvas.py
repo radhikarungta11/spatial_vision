@@ -1,7 +1,7 @@
 import typing as t
 
 from PIL import Image, ImageColor, ImageOps, ImageChops, ImageFilter
-import numpy as np
+import numpy as np 
 
 class Canvas:
     def __init__(self, filename=None, height=500, width=500):
